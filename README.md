@@ -7,15 +7,11 @@
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a>
 </p>
 
-
-
-- 🔭 I’m currently working on **Sorting Visualizer**
-
 - 😄 I’m looking to collaborate on **OpenSource Projects**
 
 - 💬 Ask me about **js , react**
 
-- 📫 How to reach me **srthkngm@gmail.com**
+- 📫 How to reach me, mail me :  **srthkngm@gmail.com**
 
 - ⚡ Fun fact **In my free time, you'll find me watching anime.**
 
