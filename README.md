@@ -3,9 +3,11 @@
 <h3 align="center">A passionate frontend developer and programmer</h3>
 <h3 align="center">Second year student at JSSATE,Noida✨. I am learning Web Development and loves to explore other domains as well.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=curio-7&label=Profile%20views&color=0e75b6&style=flat" alt="curio-7" /> </p>
+<p align="center">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a>
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=curio-7" alt="curio-7" /></a> </p>
+
 
 - 🔭 I’m currently working on **Sorting Visualizer**
 
@@ -16,6 +18,10 @@
 - 📫 How to reach me **srthkngm@gmail.com**
 
 - ⚡ Fun fact **In my free time, you'll find me watching anime.**
+
+<p align="center">
+  <a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a>
+</p>
 
 <img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -47,7 +53,12 @@
 <br/>
 
 <a href="https://github.com/curio-7"><img alt="Sarthak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=curio-7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=curio-7" alt="curio-7" /></a> </p>
 <br/>
 <br/>
 
+
+# <a href="https://imgbb.com/"><img src="https://i.ibb.co/FJCWvPS/among-us-3d.gif" alt="among-us-3d" border="0" height="40px"></a> Views and Followers:
+![Profile views](https://gpvc.arturio.dev/curio-7)  
+<a href="https://github.com/curio-7?tab=followers"><img src="https://img.shields.io/github/followers/curio-7?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/curio-7/curio-7/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/curio-7/curio-7?color=lightgray&label=License&style=flat-square"></a>
