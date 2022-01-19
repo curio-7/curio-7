@@ -28,9 +28,26 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=curio-7&show_icons=true&locale=en&layout=compact" alt="curio-7" /></p>
+# <a href="https://imgbb.com/"><img src="https://i.ibb.co/cvRSvMW/912385470426660894.gif" alt="912385470426660894" border="0" height="30px"></a> Readme stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=curio-7&show_icons=true&locale=en" alt="curio-7" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=curio-7&theme=holi-theme&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://github.com/curio-7)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=curio-7&" alt="curio-7" /></p>
+# <a href="https://imgbb.com/"><img src="https://i.ibb.co/x3BkkRH/908346363639656488.gif" alt="908346363639656488" border="0" height="30px"></a> Github Stats:
+
+  <br/>
+  
+  <a href="https://github.com/curio-7"><img alt="Sarthak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=curio-7&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    
+  <a href="https://github.com/curio-7"><img alt="Sarthak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curio-7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/curio-7"><img alt="Sarthak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=curio-7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
 
