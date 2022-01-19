@@ -1,5 +1,5 @@
 <h1 align="center">Hey! there 👋, I'm Sarthak Nigam </h1>
-<img align="center" alt="hello" width="400" src="https://dribbble.com/shots/3006366-Hello-Dribbble?utm_source=Clipboard_Shot&utm_campaign=Subgrafik&utm_content=Hello%20Dribbble!&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=Subgrafik&utm_content=Hello%20Dribbble!&utm_medium=Social_Share">
+<img align="right" alt="hello" width="150" src="https://cdn.dribbble.com/users/500242/screenshots/4046566/media/e2f2b427c4aadaccee073538c902c508.gif">
 <h3 align="center">A passionate frontend developer and programmer</h3>
 <h3 align="center">Second year student at JSSATE,Noida✨. I am learning Web Development and loves to explore other domains as well.</h3>
 
@@ -17,7 +17,7 @@
 
 - ⚡ Fun fact **In my free time, you'll find me watching anime.**
 
-<img align="right" alt="coding" src="https://dribbble.com/shots/4171367-Coding-Freak?utm_source=Clipboard_Shot&utm_campaign=studiohakuna&utm_content=Coding%20Freak&utm_medium=Social_Share&utm_source=Clipboard_Shot&utm_campaign=studiohakuna&utm_content=Coding%20Freak&utm_medium=Social_Share">
+<img align="right" alt="coding" width="350" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
