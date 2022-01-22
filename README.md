@@ -44,19 +44,11 @@
     
   <a href="https://github.com/curio-7"><img alt="Sarthak's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=curio-7&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+ 
 
 
 <br/>
 <br/>
-
-<a href="https://github.com/curio-7"><img alt="Sarthak's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=curio-7&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-### 🏆 GitHub Profile Trophy:
-<p align="center">
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img width=800 src="https://github-profile-trophy.vercel.app/?username=curio-7&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</a>
-</p>
 <br/>
 <br/>
 
