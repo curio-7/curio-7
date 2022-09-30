@@ -1,7 +1,7 @@
 <h1 align="center">Hey there ! 👋, I'm Sarthak Nigam </h1>
 <img align="right" alt="hello" width="150" src="https://cdn.dribbble.com/users/500242/screenshots/4046566/media/e2f2b427c4aadaccee073538c902c508.gif">
 <h3 align="center">A passionate frontend developer and programmer</h3>
-<h3 align="center">Second year student at JSSATE,Noida✨. I am learning Web Development and loves to explore other domains as well.</h3>
+<h3 align="center">Junior year student at JSSATE,Noida✨. I am learning Web Development and loves to explore other domains as well.</h3>
 
 <p align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a>
