@@ -1,7 +1,7 @@
 <h1 align="center">Hey there ! 👋, I'm Sarthak Nigam </h1>
 <img align="right" alt="hello" width="150" src="https://cdn.dribbble.com/users/500242/screenshots/4046566/media/e2f2b427c4aadaccee073538c902c508.gif">
 <h3 align="center">A passionate Developer and Programmer</h3>
-<h3 align="center">Junior year student at JSSATE,Noida✨. I am learning Web Development and loves to explore other domains as well.</h3>
+<h3 align="center">Final year student at JSSATE,Noida✨. I am exploring Web Development and love to explore other domains as well.</h3>
 
 <p align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a>
@@ -11,9 +11,9 @@
 
 - 💬 Ask me about **js , react**
 
-- 📫 How to reach me, mail me :  **srthkngm@gmail.com**
+- 📫 How to reach me, mail me:  **srthkngm@gmail.com**
 
-- ⚡ Fun fact **In my free time, you'll find me watching anime.**
+- ⚡ Fun fact **you'll find me watching one piece in my free time.**
 
 <p align="center">
   <a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a><a href="https://imgbb.com/"><img src="https://i.ibb.co/vvTtRTR/786262985873948732.gif" alt="786262985873948732" border="0" height="30px"></a>
