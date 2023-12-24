@@ -1,5 +1,4 @@
 <h1 align="center">Hey there ! 👋, I'm Sarthak Nigam </h1>
-<h3 align="center">A passionate Developer and Programmer</h3>
 
 
 - 😄 I’m looking to collaborate on **OpenSource Projects**
