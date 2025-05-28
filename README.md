@@ -1,6 +1,6 @@
 <h1 align="start">Hey there ! 👋, I'm Sarthak Nigam </h1>
 
-- 📫 How to reach me, mail me:  **nigamsarthak0120@gmail.com**
+📫 How to reach me, mail me:  **nigamsarthak0120@gmail.com**
 
 <h3 align="left">🌐Socials:</h3>
 <p align="left">
@@ -22,8 +22,3 @@
   <br/>
  
 
-
-<br/>
-<br/>
-<br/>
-<br/>
