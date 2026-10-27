@@ -2,10 +2,6 @@
 
 📫 How to reach me, mail me:  **nigamsarthak0120@gmail.com**
 
-<h3 align="left">🌐Socials:</h3>
-<p align="left">
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-nigam-286b64200/)
-
 
 </p>
 
